@@ -1,4 +1,4 @@
-#get al palindromes in a string
+#get all palindromes in a string
 def is_palindrome(s):
     return s == s[::-1]
 
